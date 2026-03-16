@@ -1,0 +1,13 @@
+{
+  "BEST_LGB_PARAMS": {
+    "num_leaves": 24,
+    "lr": 0.010012253651641802,
+    "n_estimators": 300,
+    "min_child_samples": 10,
+    "reg_alpha": 0.8360597819708162,
+    "reg_lambda": 0.400183495412864,
+    "subsample": 0.7370801360331704,
+    "colsample_bytree": 0.7980295050601838
+  },
+  "best_lgb_rmse": 47.45954805975587
+}
