@@ -1,2 +1,25 @@
 .env
+*.env.*
+
+# 내 개인파일
 *.me.*
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# editor state
+workspace_state.pkl
+
+# kaggle api
+kaggle.json
+
+# dataset
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
