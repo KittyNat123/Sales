@@ -1,0 +1,26 @@
+{
+  "saved_at": "2026-03-17 19:10:57",
+  "tag": "m4_ensemble_val_psfa_v1",
+  "pickle_file": "m4_ensemble_val_psfa_v1.pkl",
+  "psfa_by_cat_file": "m4_ensemble_val_psfa_v1_psfa_by_cat.csv",
+  "rmse": 80.4220169377993,
+  "mae": 7.0629363742309526,
+  "psfa": 0.7930633656963034,
+  "n_eval_pids": 9886,
+  "pred_lgb_shape": [
+    9886,
+    21
+  ],
+  "pred_dl_shape": [
+    9886,
+    21
+  ],
+  "pred_ensemble_shape": [
+    9886,
+    21
+  ],
+  "weights": {
+    "lgb": 0.3392836974982521,
+    "dl": 0.660716302501748
+  }
+}

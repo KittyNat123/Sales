@@ -1,0 +1,37 @@
+{
+  "saved_at": "2026-03-17 18:44:11",
+  "tag": "m4_m5_psfa_v1",
+  "pickle_file": "step5_cache_m4_m5_psfa_v1.pkl",
+  "result_table_rows": 10,
+  "importance_compare_rows": 19,
+  "m4_feature_count": 19,
+  "m5_feature_count": 20,
+  "m5_has_is_post_crash": true,
+  "models": [
+    "M5 / LSTM Full",
+    "M5 / GRU Full",
+    "M5 / TFT",
+    "M5 / LSTM Base",
+    "M5 / N-HiTS",
+    "M5 / LSTM+Attention",
+    "M4 / LSTM Full",
+    "M5 / LightGBM",
+    "M4 / LSTM Base",
+    "M4 / GRU Full"
+  ],
+  "psfa_available_models": [
+    "M5 / LSTM Full",
+    "M5 / GRU Full",
+    "M5 / LSTM Base",
+    "M5 / LightGBM",
+    "M4 / LSTM Base"
+  ],
+  "files": [
+    "step5_cache_m4_m5_psfa_v1.pkl",
+    "step5_cache_m4_m5_psfa_v1_meta.json",
+    "step5_result_table_m4_m5_psfa_v1.csv",
+    "step5_importance_compare_m4_m5_psfa_v1.csv",
+    "step5_importance_m4_m4_m5_psfa_v1.csv",
+    "step5_importance_m5_m4_m5_psfa_v1.csv"
+  ]
+}
